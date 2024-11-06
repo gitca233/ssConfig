@@ -1,8 +1,8 @@
-DOMAIN,ktmcloud.cool
-DOMAIN,awcloud.life
-DOMAIN,serv00.com
-DOMAIN,v2rayssr.com
+DOMAIN-SUFFIX,ktmcloud.cool
+DOMAIN-SUFFIX,awcloud.life
+DOMAIN-SUFFIX,serv00.com
+DOMAIN-SUFFIX,v2rayssr.com
 
 #NSFW
-DOMAIN,buliang0.cf
-DOMAIN,baidu.com
+DOMAIN-SUFFIX,buliang0.cf
+DOMAIN-SUFFIX,baidu.com
