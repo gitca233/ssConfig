@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,chatanywhere.tech
+8DOMAIN-SUFFIX,chatanywhere.tech
 DOMAIN-SUFFIX,chatanywhere.com.cn
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,4041024.xyz
 DOMAIN-SUFFIX,ts.net
-IP-CIDR,100.0/24.0/24.0/24
+IP-CIDR,100.0.0.0/8
