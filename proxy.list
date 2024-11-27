@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,www.aicoin.com
+DOMAIN-SUFFIX,mirror.xyz
+
+
 #NSFW
 DOMAIN-SUFFIX,buliang0.cf
 DOMAIN-SUFFIX,missav.com
